@@ -1,1 +1,1 @@
-guru C http://stolyarov.info
+# [Guru C](http://stolyarov.info)
